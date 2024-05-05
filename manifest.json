@@ -1,0 +1,26 @@
+{
+  "name": "LeetCode-Markdown",
+  "version": "0.0.0.1",
+  "manifest_version": 3,
+  "description": "An extension to convert LeetCode problems to Markdown format.",
+  "icons": {
+    "128": "icons/LeetCode_icon_1024.png"
+  },
+  "action": {
+    "default_popup": "popup/popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "lib/turndown.js",
+        "content-scripts/content.js"
+      ]
+    }
+  ]
+}
