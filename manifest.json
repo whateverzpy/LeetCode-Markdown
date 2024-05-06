@@ -4,7 +4,7 @@
   "manifest_version": 3,
   "description": "An extension to convert LeetCode problems to Markdown format.",
   "icons": {
-    "128": "icons/LeetCode_icon_1024.png"
+    "128": "icons/leetcode.png"
   },
   "action": {
     "default_popup": "popup/popup.html"
