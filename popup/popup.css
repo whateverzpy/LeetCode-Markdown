@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9; /* 轻微的灰色背景 */
+}
+
+div {
+  width: 400px;
+  margin: 20px auto; /* 增加上下边距以使其在页面中居中显示 */
+  padding: 20px;
+  background-color: #fff; /* 保持白色背景 */
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* 调整阴影以增强立体感 */
+  border: 1px solid #ddd; /* 添加边框以增强结构感 */
+}
+
+h1 {
+  color: #ffa116; /* 使用主题色 */
+  margin-bottom: 16px; /* 增加与下文的间距 */
+}
+
+p {
+  line-height: 1.6;
+  color: #333; /* 深灰色提高可读性 */
+}
+
+button {
+  display: block;
+  margin: 10px 0;
+  padding: 10px 20px;
+  border: none;
+  background-color: #ffa116; /* 按钮使用主题色 */
+  color: #fff; /* 文字使用白色以增强对比 */
+  cursor: pointer;
+  border-radius: 5px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2); /* 为按钮添加阴影 */
+}
+
+button:hover {
+  background-color: #e69500; /* 悬停时颜色加深 */
+}
+
+textarea {
+  width: 100%;
+  box-sizing: border-box; /* 防止内边距和边框造成额外的宽度 */
+  padding: 10px; /* 增加内边距以提高输入体验 */
+  border: 1px solid #ddd; /* 边框颜色与div边框相近 */
+  border-radius: 5px; /* 统一圆角风格 */
+  margin-bottom: 20px;
+  resize: vertical; /* 允许垂直调整大小 */
+}
