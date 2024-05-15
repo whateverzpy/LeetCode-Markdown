@@ -7,9 +7,9 @@ LeetCode Markdown 是一款浏览器插件，帮助用户将力扣网站上的�
 ## 目标
 - [x] 优化一些符号、行内代码块、强调、引用的 markdown 格式转换
 - [ ] 优化popup界面的显示
-- [ ] 优化转化后的题目没有标题的问题
+- [x] 优化转化后的题目没有标题的问题
 - [x] 更新icon
-- [ ] 修复数学公式的转换
+- [x] 修复数学公式的转换
 ## 参考文档
 - [Microsoft Edge 扩展](https://learn.microsoft.com/zh-cn/microsoft-edge/extensions-chromium/)
 - [turndown](https://github.com/mixmark-io/turndown)
