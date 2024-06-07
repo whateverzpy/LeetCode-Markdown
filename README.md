@@ -1,5 +1,5 @@
 # LeetCode Markdown
-![GitHub License](https://img.shields.io/github/license/whateverzpy/leetcode-markdown) ![Static Badge](https://img.shields.io/badge/LeetCode-%23FFA116?logo=leetcode&labelColor=%23555&link=https%3A%2F%2Fleetcode.cn%2F)
+![GitHub License](https://img.shields.io/github/license/whateverzpy/LeetCode-Markdown) ![Static Badge](https://img.shields.io/badge/LeetCode-%23FFA116?logo=leetcode&labelColor=%23555&link=https%3A%2F%2Fleetcode.cn%2F)
 ## 功能
 LeetCode Markdown 是一款浏览器插件，帮助用户将[力扣](https://leetcode.cn/)网站上的题目转化为 markdown 格式保存下来。
 ![](images/屏幕截图%202024-05-22%20114652.png)
