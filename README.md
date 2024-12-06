@@ -5,12 +5,12 @@
 ## 功能
 
 LeetCode Markdown 是一款浏览器插件，帮助用户将[力扣](https://leetcode.cn/)网站上的题目转化为 markdown 格式保存下来。
-![](images/AppView.png)
-![](images/Features.png)
+![AppView](images/AppView.png)
+![Features](images/Features.png)
 
 ## 安装
 
-**现已上架 Edge 浏览器商店。**
+**现已上架 Edge 浏览器商店。**（插件商店的版本可能不是最新）
 [点击此](https://microsoftedge.microsoft.com/addons/detail/leetcodemarkdown/ocbihjjehhpociepapklcnbdbncficck)或者搜索 `LeetCode-Markdown` 安装。
 
 ### 本地安装
@@ -19,11 +19,8 @@ LeetCode Markdown 是一款浏览器插件，帮助用户将[力扣](https://lee
 
 ## 目标
 
-- [x] 优化一些符号、行内代码块、强调、引用的 markdown 格式转换
+- [ ] 添加 i18n 支持
 - [ ] 优化 popup 界面的显示
-- [x] 优化转化后的题目没有标题的问题
-- [x] 更新 icon
-- [x] 修复数学公式的转换
 
 ## 参考文档
 
